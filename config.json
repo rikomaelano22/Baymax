@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6289614879811@s.whatsapp.net"],
+  "ownerName": ["Ricmalo ID"],
+  "botName": "Ricmalo Bot",
+  "footer": "2022 © RICMALO ID",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "Ricmalo ID"
+    }
+}
